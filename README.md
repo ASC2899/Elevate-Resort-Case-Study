@@ -64,7 +64,7 @@ Elevate Resort’s management team has posed several key questions:
 
 **❓ What is the revenue breakdown across different market segments and customer types?**
 
-🔍 To approach this question we first need to create a calculated column for "Total Revenue" because we don't have any. You can check the complete DAX logic [here](#🛠️-DAX).
+🔍 To approach this question we first need to create a calculated column for "Total Revenue" because we don't have any. You can check the complete DAX logic below under the heading "🛠️ DAX".
 
 Now we will use Stacked Column Chart with Market Segments on x-axis and Total Revenue on y-axis to see the Categorical Distribution of Revenue by each Market Segment.
 
@@ -81,7 +81,7 @@ Also the **Aviation** and **Complementary** are the least revenue generating se
 
 **❓ Elevate Resorts wants to visualize major business numbers(KPIs) like Total Bookings, Cancellations, Revenue, and Revenue Lost?**
 
-🔍 Again we need create "Revenue Lost" calculated column, You can check the complete DAX logic [here](#🛠️-DAX). For other KPIs we are covered.
+🔍 Again we need create "Revenue Lost" calculated column, You can check the complete DAX logic below under the heading "🛠️ DAX". For other KPIs we are covered.
 ![7](Assets/KPIs.png)
 
 
