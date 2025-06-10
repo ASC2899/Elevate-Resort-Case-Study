@@ -14,7 +14,7 @@ The datasets provided by management contains detailed records of hotel bookings 
 - **Customer segments:** Market segment, customer type, assigned room, agent
 - **Special requests**, **Country info** and many more data points.
 
-You can view the full descriptive column dictionary![DDic](<../1. Assets/Data_Dictionary.png>)
+You can view the full data dictionary
 
 
 ## 📌 Problem Statements
