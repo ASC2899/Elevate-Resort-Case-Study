@@ -31,7 +31,7 @@ Elevate Resort’s management team has posed several key questions:
 
 - Elevate Resort gets the most bookings and cancellations in summer months of **July** and **August**.
 - Also least bookings and cancellations in winter months of **November**, **December** and **January**.
-- I've also found that the **Dec 5 2015** has the highest number of bookings.
+- And if we analyse the the trend day-wise we'll find that the **Dec 5 2015** has the highest number of bookings and data shows a cyclical pattern.
 ![1](<Assets/Bookings-Cancellations Vs Months.png>)
 
 **❓ Which countries are driving the highest number of bookings?**
